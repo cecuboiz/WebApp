@@ -3,11 +3,11 @@ import { ExternalLink } from "lucide-react";
 
 const projects = [
   {
-    title: "WebApp",
-    description: "HTML 기반 웹 애플리케이션 프로젝트. 57개의 커밋으로 활발하게 개발 중.",
-    tags: ["HTML"],
+    title: "Zogsoo",
+    description: "JavaScript 기반 프로젝트. 웹 기술을 활용한 애플리케이션 개발.",
+    tags: ["JavaScript"],
     color: "from-accent/20 to-accent/5",
-    href: "https://github.com/cecuboiz/WebApp",
+    href: "https://github.com/cecuboiz/Zogsoo",
   },
   {
     title: "my-app",
@@ -15,34 +15,6 @@ const projects = [
     tags: ["HTML"],
     color: "from-foreground/10 to-foreground/5",
     href: "https://github.com/cecuboiz/my-app",
-  },
-  {
-    title: "Zogsoo",
-    description: "JavaScript 기반 프로젝트. 웹 기술을 활용한 애플리케이션 개발.",
-    tags: ["JavaScript"],
-    color: "from-accent/15 to-foreground/5",
-    href: "https://github.com/cecuboiz/Zogsoo",
-  },
-  {
-    title: "JavaPro",
-    description: "Java 프로그래밍 프로젝트. 백엔드 및 애플리케이션 개발.",
-    tags: ["Java"],
-    color: "from-foreground/10 to-accent/5",
-    href: "https://github.com/cecuboiz/JavaPro",
-  },
-  {
-    title: "Assembly",
-    description: "어셈블리 언어 프로젝트. 저수준 프로그래밍 학습 및 구현.",
-    tags: ["Assembly"],
-    color: "from-accent/10 to-foreground/10",
-    href: "https://github.com/cecuboiz/assembly",
-  },
-  {
-    title: "Web Programming",
-    description: "웹 프로그래밍 학습 및 실습 프로젝트. JavaScript 기반 템플릿.",
-    tags: ["JavaScript"],
-    color: "from-foreground/15 to-accent/5",
-    href: "https://github.com/cecuboiz/webprogramming",
   },
 ];
 
