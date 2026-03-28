@@ -1,8 +1,8 @@
 import { motion } from "framer-motion";
 
 const skills = [
-  "React", "TypeScript", "Next.js", "Node.js",
-  "Figma", "Tailwind CSS", "Python", "PostgreSQL",
+  "JavaScript", "HTML", "Java", "React",
+  "TypeScript", "Node.js", "Tailwind CSS", "PostgreSQL",
 ];
 
 const AboutSection = () => {
@@ -18,19 +18,18 @@ const AboutSection = () => {
           >
             <p className="text-accent font-display text-sm tracking-widest uppercase mb-4">About</p>
             <h2 className="text-4xl md:text-5xl font-display font-bold text-foreground leading-tight mb-8">
-              문제를 해결하는
+              Davaasuren
               <br />
-              디자인을 합니다
+              Tserentogtokh
             </h2>
             <div className="space-y-4 text-muted-foreground leading-relaxed">
               <p>
-                3년 이상의 웹 개발 경험을 바탕으로, 사용자 경험을 최우선으로 생각하는
-                풀스택 개발자입니다. 깔끔한 코드와 직관적인 인터페이스를 통해
-                비즈니스 가치를 창출합니다.
+                한국에서 활동하는 웹 개발자입니다. JavaScript, HTML, Java 등
+                다양한 기술 스택을 활용하여 웹 애플리케이션을 개발합니다.
               </p>
               <p>
-                새로운 기술을 빠르게 습득하고, 팀과의 협업을 통해 더 나은 결과물을
-                만들어내는 것을 즐깁니다.
+                GitHub에서 305회 이상의 기여를 기록하며, WebApp, Zogsoo 등
+                다양한 프로젝트를 진행하고 있습니다.
               </p>
             </div>
           </motion.div>

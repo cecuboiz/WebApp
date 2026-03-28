@@ -14,7 +14,7 @@ const Index = () => {
       <ContactSection />
       <footer className="py-8 border-t border-border">
         <div className="container text-center text-sm text-muted-foreground font-display">
-          © 2026 Portfolio. All rights reserved.
+          © 2026 Davaasuren Tserentogtokh. All rights reserved.
         </div>
       </footer>
     </div>
