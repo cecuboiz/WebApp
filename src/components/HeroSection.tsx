@@ -4,7 +4,6 @@ import heroImage from "@/assets/hero-abstract.jpg";
 const HeroSection = () => {
   return (
     <section className="relative min-h-screen flex items-center overflow-hidden">
-      {/* Background image with overlay */}
       <div className="absolute inset-0">
         <img src={heroImage} alt="" className="w-full h-full object-cover opacity-20" />
         <div className="absolute inset-0 bg-gradient-to-b from-background/60 via-background/80 to-background" />
@@ -32,9 +31,9 @@ const HeroSection = () => {
             transition={{ delay: 0.4, duration: 0.8 }}
             className="text-6xl md:text-8xl lg:text-9xl font-display font-bold leading-[0.9] tracking-tight text-foreground mb-8"
           >
-            크리에이티브
+            Davaasuren
             <br />
-            <span className="text-gradient">개발자</span>
+            <span className="text-gradient">Tserentogtokh</span>
           </motion.h1>
 
           <motion.p
@@ -43,8 +42,8 @@ const HeroSection = () => {
             transition={{ delay: 0.7, duration: 0.6 }}
             className="text-muted-foreground text-lg md:text-xl max-w-xl leading-relaxed mb-10"
           >
-            디자인과 코드의 교차점에서 의미 있는 디지털 경험을 만듭니다.
-            사용자 중심의 웹 솔루션을 설계하고 구현합니다.
+            한국에서 활동하는 웹 개발자입니다.
+            JavaScript, HTML, Java를 활용하여 다양한 웹 애플리케이션을 만듭니다.
           </motion.p>
 
           <motion.div
@@ -60,16 +59,17 @@ const HeroSection = () => {
               프로젝트 보기
             </a>
             <a
-              href="#contact"
+              href="https://github.com/cecuboiz"
+              target="_blank"
+              rel="noopener noreferrer"
               className="inline-flex items-center px-8 py-4 border border-foreground/20 text-foreground font-display font-medium rounded-lg hover:bg-foreground/5 transition-colors"
             >
-              연락하기
+              GitHub
             </a>
           </motion.div>
         </motion.div>
       </div>
 
-      {/* Scroll indicator */}
       <motion.div
         initial={{ opacity: 0 }}
         animate={{ opacity: 1 }}
