@@ -1,8 +1,8 @@
 import { motion } from "framer-motion";
 
 const skills = [
-  "JavaScript", "HTML", "Java", "React",
-  "TypeScript", "Node.js", "Tailwind CSS", "PostgreSQL",
+  "JavaScript", "HTML", "Java", "C++", "React",
+  "TypeScript", "Node.js", "Tailwind CSS",
 ];
 
 const AboutSection = () => {
@@ -24,11 +24,11 @@ const AboutSection = () => {
             </h2>
             <div className="space-y-4 text-muted-foreground leading-relaxed">
               <p>
-                한국에서 활동하는 웹 개발자입니다. JavaScript, HTML, Java 등
+                한국에서 활동하는 웹 개발자입니다. JavaScript, HTML, Java, C++ 등
                 다양한 기술 스택을 활용하여 웹 애플리케이션을 개발합니다.
               </p>
               <p>
-                GitHub에서 305회 이상의 기여를 기록하며, WebApp, Zogsoo 등
+                GitHub에서 305회 이상의 기여를 기록하며, Zogsoo, my-app 등
                 다양한 프로젝트를 진행하고 있습니다.
               </p>
             </div>
