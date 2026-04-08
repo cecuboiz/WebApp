@@ -27,7 +27,7 @@ npm run dev
 Open your browser and go to:
 
 ```
-[http://localhost:5173](https://nimble-mermaid-d02137.netlify.app/)
+https://nimble-mermaid-cecuboiz04010.netlify.app/
 ```
 
 ## 📦 Technologies
