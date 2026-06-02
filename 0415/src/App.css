@@ -1,0 +1,69 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f4f6f8;
+}
+
+/* main wrapper */
+.App {
+  text-align: center;
+  padding: 30px;
+}
+
+/* title */
+h1 {
+  color: #333;
+  margin-bottom: 30px;
+}
+
+/* container spacing */
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+/* card style for components */
+.box {
+  background: white;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  transition: transform 0.2s ease;
+}
+
+/* hover effect */
+.box:hover {
+  transform: translateY(-3px);
+}
+
+/* button style */
+button {
+  padding: 8px 14px;
+  margin: 5px;
+  border: none;
+  border-radius: 6px;
+  background: #4f46e5;
+  color: white;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #3730a3;
+}
+
+/* input style */
+input {
+  padding: 8px;
+  margin: 5px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+
+/* checkbox label */
+label {
+  font-size: 16px;
+  cursor: pointer;
+}
