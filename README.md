@@ -8,10 +8,10 @@ WebApp/
 ├── 0304/        # 1주차 — 웹 기초, HTML/JS 실습
 ├── 0311/        # 2주차 — MPA/SPA, React 앱 생성
 ├── 0318/        # 3주차 — CRA(Create React App) 실습
-├── 0325/        # 4주차 — Binary Clock, 포트폴리오 Vercel 배포
+├── 0325/        # 4주차 — 포트폴리오 Vercel 배포
 ├── 0401/        # 5주차 — Component, Props 실습
-├── 0401_Report1/ # 레포트 1 — BMI Calculator (Vercel 배포)
-├── 0404_Report2/ # 레포트 2 — 여행지 추천 앱 (TravelRecommend)
+├── 0401/        # 레포트 1 
+├── 0404/        # 레포트 2 
 ├── 0408/        # 6주차 — Component State, useState
 ├── 0415/        # 7주차 — React Hook, useEffect
 ├── 0422/        # 중간고사
@@ -19,7 +19,8 @@ WebApp/
 ├── 0506/        # 10주차 — GameStack 팀 프로젝트 시작
 ├── 0513/        # 13주차 — 1~3조 팀 프로젝트 발표
 ├── 0520/        # 14주차 — 4~6조 팀 프로젝트 발표
-└── 0527/        # 15주차 — 7~9조 발표, 개인 깃허브 정리 완료
+└── 0527/        # 15주차 — 7~9조 발표
+└── 0604/        # 개인 깃허브 정리 완료
 
 
 사용 기술
