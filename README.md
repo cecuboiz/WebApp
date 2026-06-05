@@ -10,8 +10,6 @@ WebApp/
 ├── 0318/        # 3주차 — CRA(Create React App) 실습
 ├── 0325/        # 4주차 — 포트폴리오 Vercel 배포
 ├── 0401/        # 5주차 — Component, Props 실습
-├── 0401/        # 레포트 1 
-├── 0404/        # 레포트 2 
 ├── 0408/        # 6주차 — Component State, useState
 ├── 0415/        # 7주차 — React Hook, useEffect
 ├── 0422/        # 중간고사
